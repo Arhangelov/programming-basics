@@ -13,4 +13,4 @@
 * Work with more comlex loops (nested loops and while)
 
 
-### You can find the course here! [Programming Basics](https://softuni.bg/trainings/2773/programming-basics-with-javascript-february-2020)
+### You can find the course [here!](https://softuni.bg/trainings/2773/programming-basics-with-javascript-february-2020)
