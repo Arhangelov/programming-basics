@@ -14,4 +14,4 @@
 
 
 ### You can find the course [here!](https://softuni.bg/trainings/2773/programming-basics-with-javascript-february-2020)
-<image width=360 src="https://user-images.githubusercontent.com/73829572/213945688-7be0676c-1190-46c6-bee7-626464cf9157.png">
+<image width=390 src="https://user-images.githubusercontent.com/73829572/213945688-7be0676c-1190-46c6-bee7-626464cf9157.png">
